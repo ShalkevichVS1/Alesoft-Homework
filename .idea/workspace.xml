@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="114260f9-9c48-4440-99d4-8d95e50d839c" name="Changes" comment="The second homework is ready">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/pom.xml" afterDir="false" />
+    <list default="true" id="114260f9-9c48-4440-99d4-8d95e50d839c" name="Changes" comment="The third homework is ready">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746609720291</updated>
-      <workItem from="1746609721955" duration="4715000" />
+      <workItem from="1746609721955" duration="5693000" />
     </task>
     <task id="LOCAL-00001" summary="The second homework is ready">
       <option name="closed" value="true" />
@@ -133,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746613123593</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The third homework is ready">
+      <option name="closed" value="true" />
+      <created>1746615569186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746615569186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the first homework to check" />
     <MESSAGE value="The second homework is ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="The second homework is ready" />
+    <MESSAGE value="The third homework is ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="The third homework is ready" />
   </component>
 </project>
