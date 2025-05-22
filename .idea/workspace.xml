@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4fe047f-2d05-4cc8-9117-9ff06d68cf9a" name="Changes" comment="The third homework is ready 1" />
+    <list default="true" id="282f598f-e92a-427a-b8bf-436e07c96fac" name="Changes" comment="The third homework is ready 1234">
+      <change afterPath="$PROJECT_DIR$/lesson3/src/main/java/com/shalkevich/ArrayProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/main/java/com/shalkevich/MainLesson3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/main/java/com/shalkevich/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/src/main/java/com/shalkevich/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
+      <map />
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -38,9 +46,7 @@
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
 }</component>
-  <component name="ProjectId" id="2wfWFWhr98y2jiuzyWNWfUJc2vz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -50,20 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.MainAnimals.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+    "git-widget-placeholder": "Merging master"
   }
 }]]></component>
   <component name="RunManager">
@@ -97,31 +90,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f4fe047f-2d05-4cc8-9117-9ff06d68cf9a" name="Changes" comment="" />
-      <created>1746433006080</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1746433006080</updated>
-      <workItem from="1746433008418" duration="3243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The third homework is ready" />
-    <option name="LAST_COMMIT_MESSAGE" value="The third homework is ready" />
+    <MESSAGE value="The third homework is ready 1234" />
+    <option name="LAST_COMMIT_MESSAGE" value="The third homework is ready 1234" />
   </component>
 </project>

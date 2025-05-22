@@ -9,12 +9,13 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+<<<<<<<< HEAD:lesson1/pom.xml
     <artifactId>lesson1</artifactId>
+========
+    <groupId>com.shalkevich</groupId>
+    <artifactId>lesson3</artifactId>
+    <version>1.0-SNAPSHOT</version>
+>>>>>>>> lesson3:lesson3/pom.xml
 
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 
 </project>
